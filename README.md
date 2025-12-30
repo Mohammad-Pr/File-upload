@@ -5,7 +5,7 @@
 <p>✔ Simple appearance but very practical</p>
 <p>✔ Has a menu with Bootstrap. Online clock and date with PHP⏰📅</p>
 <p>✔ Fully responsive </p>
-<p>🩶💙</p>
+<p>🤍💚</p>
 
 
 # ⚙ :
